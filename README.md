@@ -27,7 +27,11 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RanaMohamed24&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=RanaMohames24&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=RanaMohamed24&style=for-the-badge">
+</a>
 
 
 
